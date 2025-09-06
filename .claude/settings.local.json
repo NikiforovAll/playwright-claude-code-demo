@@ -1,8 +1,6 @@
 {
   "permissions": {
-    "allow": [
-      "mcp__playwright__browser_close"
-    ],
+    "allow": [],
     "deny": [],
     "ask": []
   }
