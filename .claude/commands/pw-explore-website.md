@@ -1,5 +1,4 @@
 ---
-allowed-tools: "mcp__playwright__browser_navigate, mcp__playwright__browser_evaluate, mcp__playwright__browser_click"
 description: Website exploration for testing using Playwright MCP
 ---
 

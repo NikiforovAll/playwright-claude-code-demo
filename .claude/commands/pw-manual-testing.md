@@ -1,5 +1,4 @@
 ---
-allowed-tools: "mcp__playwright__browser_navigate, mcp__playwright__browser_evaluate, mcp__playwright__browser_click"
 description: Manually test a site and create a report
 ---
 
